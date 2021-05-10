@@ -5,6 +5,7 @@ $txtPais=(isset($_POST['txtPais']))?$_POST['txtPais']:"";
 $txtCapital=(isset($_POST['txtCapital']))?$_POST['txtCapital']:"";
 $accion=(isset($_POST['accion']))?$_POST['accion']:"";
 $accionAgregar="";
+$accionModificar="";
 $mostrarModal=false;
 // import conexion
 include_once "../conexion/conexion.php";

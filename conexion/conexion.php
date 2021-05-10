@@ -4,7 +4,7 @@
 $motor="mysql"; //motor de base datos
 $db = "empresa"; // nombre de base de datos
 $host = "127.0.0.1"; // localhost
-$usuario="root";
+$usuario="malcom";
 $password="";
 
 // Bloque try/catch
