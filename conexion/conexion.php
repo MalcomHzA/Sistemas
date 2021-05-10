@@ -2,7 +2,7 @@
 
 // Datos de conexion
 $motor="mysql"; //motor de base datos
-$db = "empresa"; // nombre de base de datos
+$db = "paises_db"; // nombre de base de datos
 $host = "127.0.0.1"; // localhost
 $usuario="malcom";
 $password="";
